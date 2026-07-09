@@ -2,7 +2,7 @@
 
  **[Qfield]([https://qfield.org/](https://qfield.org/)) pour la cartographie de terrain**
 
- **[QBiome officiel](https://github.com/FelixHinckel/QBiome) ou [QBiome SYNETEA](https://github.com/augustinsoulard/QBiome-SYNETEA) pour une utilisation optimale de Qfield**
+ **[QBiome officiel](https://ageona-cartographie.fr/qbiome-telechargement/)) ou [QBiome SYNETEA](https://github.com/augustinsoulard/QBiome-SYNETEA) pour une utilisation optimale de Qfield**
 
  **[R](https://www.r-project.org/) avec [Rstudio](https://posit.co/) pour les analyses pour les analyses**
 
