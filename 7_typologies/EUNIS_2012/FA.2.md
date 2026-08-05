@@ -6,12 +6,12 @@ Haies régulièrement entretenues et composées d’espèces indigènes qui ont 
 #### Niveaux inférieurs 🔽
 *Aucun niveau inférieur répertorié.*
 
-#### 🔄 Correspondances Typologiques
+#### 🔄 Correspondance Corine Biotope
 *Aucune correspondance en français trouvée vers Corine Biotope.*
 
-#### Correspondance avec PVF2
+#### ⛰️ Correspondance avec PVF2
 *Aucune correspondance trouvée avec le PVF2.*
 
-#### 🌿 Espèces indicatrices et Taxons associés
-- [[Habrosyne pyritoides]] (Hufnagel, 1766)
+#### 🌿 Espèces indicatrices (Flore)
+*Aucun taxon associé répertorié pour cet habitat (flore uniquement).*
 

@@ -6,12 +6,12 @@ Vignobles ayant préservé leur flore accompagnatrice caractéristique (souvent 
 #### Niveaux inférieurs 🔽
 *Aucun niveau inférieur répertorié.*
 
-#### 🔄 Correspondances Typologiques
+#### 🔄 Correspondance Corine Biotope
 - [[83.211]] Vignobles traditionnels
 
-#### Correspondance avec PVF2
+#### ⛰️ Correspondance avec PVF2
 *Aucune correspondance trouvée avec le PVF2.*
 
-#### 🌿 Espèces indicatrices et Taxons associés
-*Aucun taxon associé répertorié pour cet habitat.*
+#### 🌿 Espèces indicatrices (Flore)
+*Aucun taxon associé répertorié pour cet habitat (flore uniquement).*
 

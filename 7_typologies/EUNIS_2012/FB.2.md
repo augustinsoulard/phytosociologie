@@ -6,13 +6,13 @@ Comprend les plantations de Thé Camellia sinensis et celles d’Osier Salix vim
 #### Niveaux inférieurs 🔽
 - [[FB.22]] Formations à Osier
 
-#### 🔄 Correspondances Typologiques
+#### 🔄 Correspondance Corine Biotope
 *Aucune correspondance en français trouvée vers Corine Biotope.*
 
-#### Correspondance avec PVF2
+#### ⛰️ Correspondance avec PVF2
 *Aucune correspondance trouvée avec le PVF2.*
 
-#### 🌿 Espèces indicatrices et Taxons associés
+#### 🌿 Espèces indicatrices (Flore)
 - [[Salix viminalis]]
 - [[Camellia sinensis]]
 

@@ -6,13 +6,12 @@ Peuplements de Salix viminalis cultivés comme des Saules de hautes qualités po
 #### Niveaux inférieurs 🔽
 *Aucun niveau inférieur répertorié.*
 
-#### 🔄 Correspondances Typologiques
+#### 🔄 Correspondance Corine Biotope
 *Aucune correspondance en français trouvée vers Corine Biotope.*
 
-#### Correspondance avec PVF2
+#### ⛰️ Correspondance avec PVF2
 *Aucune correspondance trouvée avec le PVF2.*
 
-#### 🌿 Espèces indicatrices et Taxons associés
+#### 🌿 Espèces indicatrices (Flore)
 - [[Salix viminalis]]
-- [[Salix rubra]]
 

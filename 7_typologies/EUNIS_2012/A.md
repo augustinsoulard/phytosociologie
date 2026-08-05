@@ -12,16 +12,15 @@ Les habitats marins sont directement liés à l’océan mondial, c’est‐à�
 - [[A6]] Habitats profonds
 - [[A7]] Habitats pélagiques
 
-#### 🔄 Correspondances Typologiques
+#### 🔄 Correspondance Corine Biotope
 - [[12]] Bras de mer
 - [[11]] Mers et océans
 - [[1]] Habitats littoraux et halophiles
 - [[2]] Milieux aquatiques non marins
 
-#### Correspondance avec PVF2
+#### ⛰️ Correspondance avec PVF2
 *Aucune correspondance trouvée avec le PVF2.*
 
-#### 🌿 Espèces indicatrices et Taxons associés
-- [[Tursiops truncatus]] (Montagu, 1821)
-- [[Phocoena phocoena]] (Linnaeus, 1758)
+#### 🌿 Espèces indicatrices (Flore)
+*Aucun taxon associé répertorié pour cet habitat (flore uniquement).*
 

@@ -6,16 +6,14 @@ Haies composées principalement d’espèces locales avec en moyenne au moins ci
 #### Niveaux inférieurs 🔽
 *Aucun niveau inférieur répertorié.*
 
-#### 🔄 Correspondances Typologiques
+#### 🔄 Correspondance Corine Biotope
 *Aucune correspondance en français trouvée vers Corine Biotope.*
 
-#### Correspondance avec PVF2
+#### ⛰️ Correspondance avec PVF2
 *Aucune correspondance trouvée avec le PVF2.*
 
-#### 🌿 Espèces indicatrices et Taxons associés
+#### 🌿 Espèces indicatrices (Flore)
 - [[Clematis vitalba]]
 - [[Rubus fruticosus]]
 - [[Hedera helix]]
-- [[Satyrium ilicis]] (Esper, 1779)
-- [[Habrosyne pyritoides]] (Hufnagel, 1766)
 

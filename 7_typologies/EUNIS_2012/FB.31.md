@@ -6,12 +6,12 @@ Plantations d’arbres nains, d’arbustes, d’espaliers ou de plantes grimpant
 #### Niveaux inférieurs 🔽
 *Aucun niveau inférieur répertorié.*
 
-#### 🔄 Correspondances Typologiques
+#### 🔄 Correspondance Corine Biotope
 - [[83.22]] Vergers de basses tiges
 
-#### Correspondance avec PVF2
+#### ⛰️ Correspondance avec PVF2
 *Aucune correspondance trouvée avec le PVF2.*
 
-#### 🌿 Espèces indicatrices et Taxons associés
-*Aucun taxon associé répertorié pour cet habitat.*
+#### 🌿 Espèces indicatrices (Flore)
+*Aucun taxon associé répertorié pour cet habitat (flore uniquement).*
 

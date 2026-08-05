@@ -7,19 +7,13 @@ Plantations d’arbres nains, arbustes, espaliers ou d’espèces grimpantes lig
 - [[FB.31]] Vergers d'arbustes et d'arbres bas
 - [[FB.32]] Plantations d'arbustes ornementaux
 
-#### 🔄 Correspondances Typologiques
+#### 🔄 Correspondance Corine Biotope
 - [[83.2]] Vergers à arbustes
 
-#### Correspondance avec PVF2
+#### ⛰️ Correspondance avec PVF2
 *Aucune correspondance trouvée avec le PVF2.*
 
-#### 🌿 Espèces indicatrices et Taxons associés
+#### 🌿 Espèces indicatrices (Flore)
 - [[Ribes sp]].
 - [[Rubus sp]].
-- [[Nyctalus leisleri]] (Kuhl, 1817)
-- [[Myotis nattereri]] (Kuhl, 1817)
-- [[Tarentola mauritanica]] (Linnaeus, 1758)
-- [[Eptesicus serotinus]] (Schreber, 1774)
-- [[Myotis escalerai]] Cabrera, 1904
-- [[Xenochlorodes olympiaria]] (Herrich-Schäffer, 1852)
 

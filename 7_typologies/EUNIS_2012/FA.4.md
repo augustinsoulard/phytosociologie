@@ -6,15 +6,14 @@ Haies composées essentiellement d’espèces indigènes, non entretenues de man
 #### Niveaux inférieurs 🔽
 *Aucun niveau inférieur répertorié.*
 
-#### 🔄 Correspondances Typologiques
+#### 🔄 Correspondance Corine Biotope
 *Aucune correspondance en français trouvée vers Corine Biotope.*
 
-#### Correspondance avec PVF2
+#### ⛰️ Correspondance avec PVF2
 *Aucune correspondance trouvée avec le PVF2.*
 
-#### 🌿 Espèces indicatrices et Taxons associés
+#### 🌿 Espèces indicatrices (Flore)
 - [[Hedera helix]]
 - [[Rubus fruticosus]]
 - [[Clematis vitalba]]
-- [[Habrosyne pyritoides]] (Hufnagel, 1766)
 
