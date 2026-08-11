@@ -264,8 +264,8 @@ L'**indice d'abondance-dominance** est une estimation globale de la **densité**
 
 | Classe | Signification                                                                  |
 | ------ | ------------------------------------------------------------------------------ |
-| **r**  | un individu (facultatif)                                                       |
-| **i**  | Moins d'une dizaine d'individu (facultatif)                                    |
+| **i**  | un individu (facultatif)                                                       |
+| **r**  | Moins d'une dizaine d'individu (facultatif)                                    |
 | **+**  | éléments peu ou très peu abondants, recouvrement inférieur à 5 % de la surface |
 | **1**  | éléments assez abondants, recouvrement inférieur à 5 % de la surface           |
 | **2**  | éléments très abondants, recouvrement inférieur à 25 % de la surface.          |
