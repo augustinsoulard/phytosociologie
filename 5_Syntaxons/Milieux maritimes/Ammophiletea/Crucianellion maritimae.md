@@ -8,7 +8,7 @@ auteurs:
   - Augustin Soulard
 date_maj: 2026-06-25
 sources:
-  - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
+  - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
 
 **Description :** Végétation herbacée vivace chaméphytique, halotolérante, des garrigues primaires sur sables dunaires stabilisés du rivage de la Méditerranée centrale et occidentale. 

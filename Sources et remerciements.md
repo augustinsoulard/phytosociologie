@@ -4,7 +4,7 @@
 
 ## Sources générales
 
-- Pour la majorité de la syntaxonomie : [[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]
+- Pour la majorité de la syntaxonomie : [[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]
 - [[Roux et al. - 2024 - Prodrome des végétations de France 2.pdf]]
 - [[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]
 - Pour beaucoup des espèces caractéristiques, correspondances typologiques et quelques descriptions : [[Botineau et Dupont - 2026 - Clé d'identification des unités phytosociologiques supérieures de France métropolitaine]]

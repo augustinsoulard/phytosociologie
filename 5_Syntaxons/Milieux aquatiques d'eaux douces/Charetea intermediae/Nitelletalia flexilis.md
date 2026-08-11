@@ -8,7 +8,7 @@ date_maj: 2026-06-22
 auteurs:
   - Augustin Soulard
 sources:
-  - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
+  - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
 Végétations à Characeae des eaux douces (salinité < 0,5 g/L), peu minéralisées, faiblement acides à neutres, oligocalciques à mésocalciques, oligomésotrophe, dominées par des espèces du genre Nitella.
 

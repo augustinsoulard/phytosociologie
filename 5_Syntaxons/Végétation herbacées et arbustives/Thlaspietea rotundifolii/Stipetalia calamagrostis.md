@@ -2,13 +2,13 @@
 tags:
   - ordre
 syntaxon_superieur: "[[Thlaspietea rotundifolii]]"
-syntaxon_inferieur: 
-especes_indicatrices: 
+syntaxon_inferieur:
+especes_indicatrices:
 date_maj: 2026-06-15
 auteurs:
   - Augustin Soulard
 sources:
-  - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
+  - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
 Végétation herbacée vivace, thermophile, des éboulis calcaires des étages collinéen à montagnard de l'Europe centrale et occidentale, tempérée et méditerranéenne. 
 

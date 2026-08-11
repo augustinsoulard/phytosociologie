@@ -8,7 +8,7 @@ date_maj: 2026-06-14
 auteurs:
   - Augustin Soulard
 sources:
-  - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
+  - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
 **Description** : Forêts mésohygrophiles, acidiphiles à calcicoles (Sapinière avec tapis herbacé à physionomie de mégaphorbiaie)
 

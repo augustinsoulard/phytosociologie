@@ -8,7 +8,7 @@ date_maj: 2026-06-15
 auteurs:
   - Augustin Soulard
 sources:
-  - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
+  - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
 **Description** : Pelouses xérophiles et mésothermes des sols superficiels oligotrophes (Note : il est proposé de rattacher cette alliance à la classe des Rosmarinetea, p. 50)
 

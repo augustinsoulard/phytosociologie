@@ -6,7 +6,7 @@ date_maj: 2026-06-14
 auteurs:
   - Augustin Soulard
 sources:
-  - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
+  - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
 **Description** : Rochers littoraux : Végétation de chasmophytes et des pelouses aérohalines atlantiques
 

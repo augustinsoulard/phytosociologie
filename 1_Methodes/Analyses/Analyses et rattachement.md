@@ -32,7 +32,7 @@ Les catalogues permettent d'obtenir une liste des syntaxons sur un territoire do
 - Pas toujours disponible
 - Pas forcément exhaustif et difficile de repérer une association non décrite
 
-Il existe désormais [[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf|CatVeg]], mais ce dernier ne liste que les syntaxons existants sans donner d'informations sur l'identification de ces derniers.
+Il existe désormais [[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf|CatVeg]], mais ce dernier ne liste que les syntaxons existants sans donner d'informations sur l'identification de ces derniers.
 
 ## HABREF avec le PVF2
 

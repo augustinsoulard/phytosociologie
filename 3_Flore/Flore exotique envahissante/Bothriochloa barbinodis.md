@@ -8,7 +8,7 @@ date_maj: 2026-06-15
 auteurs:
   - Augustin Soulard
 sources:
-  - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
+  - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
 **Description :** Grande graminée vivace cespiteuse (~ 0,6–1,2 m) en touffes serrées. Chaumes dressés, nœuds marqués par un anneau de longs poils blancs ; feuilles étroites et coriaces. Fort pouvoir de tallage, persistance des souches et régénération après fauche. Reproduction abondante par caryopses munies d’arêtes torsadées ; dissémination anémophile et par le trafic routier. Biomasse aérienne élevée en été, s’accumulant sous forme de litière sèche.  
   

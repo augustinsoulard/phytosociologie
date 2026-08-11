@@ -2,13 +2,13 @@
 tags:
   - sous-alliance
 syntaxon_superieur: "[[Geranion sanguinei]]"
-syntaxon_inferieur: 
-especes_indicatrices: 
+syntaxon_inferieur:
+especes_indicatrices:
 date_maj: 2026-06-15
 auteurs:
   - Augustin Soulard
 sources:
-  - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
+  - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
 **Description** : Sous-alliance xérophile. Subdivisée en 6 groupes d'associations : associations atlantiques et subatlantiques ; associations acidiclines des massifs hercyniens ; associations médioeuropéennes et subatlantiques ; association provençale ; associations méditerranéo-montagnardes ; associations montagnardes à subalpines.
 

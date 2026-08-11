@@ -8,7 +8,7 @@ date_maj: 2026-06-14
 auteurs:
   - Augustin Soulard
 sources:
-  - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
+  - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
 Végétations d’algues à ramifications verticillées, ancrées au substrat par des rhizoïdes (charophytes), présentes dans des eaux stagnantes parfois faiblement courantes, douces ou saumâtres, faiblement acides à basiques, oligotrophes à mésoeutrophes, non ou très peu polluées. Elles colonisent des substrats meubles, formant des peuplements pionniers éphémères ou pérennes, monospécifiques à paucispécifiques, pouvant constituer la strate la plus profonde de la végétation aquatique.
 

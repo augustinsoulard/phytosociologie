@@ -2,13 +2,13 @@
 tags:
   - alliance
 syntaxon_superieur: "[[Galio aparines-Alliarietalia petiolatae]]"
-syntaxon_inferieur: 
-especes_indicatrices: 
+syntaxon_inferieur:
+especes_indicatrices:
 date_maj: 2026-06-15
 auteurs:
   - Augustin Soulard
 sources:
-  - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
+  - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
 **Description** : Friches mésoxérophiles méditerranéo-atlantiques (Alliance située provisoirement par CatVeg dans les Galio-Urticetea, mais pour des raisons à la fois physionomiques, floristiques et écologiques, elle semble mieux située ici - [[Botineau et Dupont - 2026 - Clé d'identification des unités phytosociologiques supérieures de France métropolitaine]])
 

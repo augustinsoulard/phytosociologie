@@ -2,13 +2,13 @@
 tags:
   - sous-alliance
 syntaxon_superieur: "[[Koelerio macranthae-Phleion phleoidis]]"
-syntaxon_inferieur: 
-especes_indicatrices: 
+syntaxon_inferieur:
+especes_indicatrices:
 date_maj: 2026-06-15
 auteurs:
   - Augustin Soulard
 sources:
-  - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
+  - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
 **Description** : Pelouses du Massif central, Pyrénées, vallées de la Loire et de l'Allier
 

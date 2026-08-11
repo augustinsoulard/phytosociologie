@@ -8,7 +8,7 @@ date_maj: 2026-06-22
 auteurs:
   - Augustin Soulard
 sources:
-  - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
+  - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
 Végétations des eaux douces assez fortement à fortement minéralisées parfois légèrement saumâtres (oligohalines : 0,5-3 g/L), basiques, souvent calciques et pauvres en phosphates, oligo-mésotrophes à méso-eutrophes ; aire subocéanique-subcontinentale du centre et du nord de l’Europe.
 

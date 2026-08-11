@@ -8,7 +8,7 @@ date_maj: 2026-06-17
 auteurs:
   - Augustin Soulard
 sources:
-  - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
+  - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
   - "[[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]"
 ---
 Syn. : Salicornietum fruticosae Braun-Blanq. 1928 ; Salicornietum fruticosae Braun-Blanq. 1931 ; Ass. à Salicornia fruticosa et Statice bellidifolia Braun-Blanq. 1933 ; Puccinellio festuciformis - Arthrocnemetum fruticosi (Braun-Blanq. 1928) Géhu 1976 ; Puccinellio convolutae - Arthrocnemetum macrostachyi (Braun-Blanq. (1928) 1933) Géhu ex Géhu et al. 1984. 

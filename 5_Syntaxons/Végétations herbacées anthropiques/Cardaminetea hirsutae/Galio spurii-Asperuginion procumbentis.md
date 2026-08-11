@@ -8,7 +8,7 @@ date_maj: 2026-06-14
 auteurs:
   - Augustin Soulard
 sources:
-  - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
+  - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
 Associations :
 - [[Galio spurii-Anthriscetum caucalidis]] Misset et Garraud in Misset 2019 ; Sedetum fragrantis Quézel 1951

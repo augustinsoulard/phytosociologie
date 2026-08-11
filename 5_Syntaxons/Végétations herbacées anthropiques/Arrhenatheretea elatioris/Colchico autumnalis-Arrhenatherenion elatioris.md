@@ -8,7 +8,7 @@ date_maj: 2026-06-14
 auteurs:
   - Augustin Soulard
 sources:
-  - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
+  - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
 **Description** : Prairies planitiaires à submontagnardes mésohygrophiles (comprend un groupe d'associations planitiaires et un groupe d'associations collinéennes)
 

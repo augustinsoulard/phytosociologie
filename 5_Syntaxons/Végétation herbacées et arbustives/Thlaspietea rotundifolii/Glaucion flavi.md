@@ -2,13 +2,13 @@
 tags:
   - alliance
 syntaxon_superieur: "[[Epilobietalia fleischeri]]"
-syntaxon_inferieur: 
-especes_indicatrices: 
+syntaxon_inferieur:
+especes_indicatrices:
 date_maj: 2026-06-15
 auteurs:
   - Augustin Soulard
 sources:
-  - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
+  - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
 Végétation herbacée vivace pionnière, eutrophile, des dépôts de galets des terrasses alluviales, exondés durant la saison sèche, des cours d'eau à débit variable de la Méditerranée. 
 

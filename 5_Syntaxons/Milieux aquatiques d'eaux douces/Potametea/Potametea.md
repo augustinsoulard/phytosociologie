@@ -8,7 +8,7 @@ date_maj: 2026-06-15
 auteurs:
   - Augustin Soulard
 sources:
-  - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
+  - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
   - "[[Roux et al. - 2024 - Prodrome des végétations de France 2.pdf]]"
 ---
 Végétation herbacée vivace aquatique, enracinée, immergée ou flottante, des eaux douces courantes ou stagnantes, oligomésotrophes à eutrophes, de l'Eurasie. 

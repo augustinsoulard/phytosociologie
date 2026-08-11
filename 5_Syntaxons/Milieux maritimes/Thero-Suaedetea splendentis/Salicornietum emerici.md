@@ -8,7 +8,7 @@ date_maj: 2026-06-17
 auteurs:
   - Augustin Soulard
 sources:
-  - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
+  - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
   - "[[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]"
 ---
 Syn. : Salicornietum emerici O. Bolòs 1962 ; Arthrocnemo glauci - Salicornietum emerici (O. Bolòs 1962) Géhu et al. 1978. 

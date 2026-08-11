@@ -8,7 +8,7 @@ date_maj: 2026-06-17
 auteurs:
   - Augustin Soulard
 sources:
-  - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
+  - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
   - "[[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]"
 ---
 Syn. : Salicornietum patulae Brullo & Furnari 1976 ; Suaedo vulgaris - Salicornietum patulae Brullo & Furnari ex Géhu & Géhu-Franck 1984 ; Suaedo spicatae - Salicornietum patulae Brullo & Furnari ex Géhu & Géhu-Franck 1984 corr. Alcaraz et al. 1998. 

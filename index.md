@@ -110,6 +110,7 @@ Vous pouvez consulter ce site web ou télécharger cet outil sur [github](https:
 
 # **Méthodologie**
 
+### 👩‍🏫 [[Les bases en phytosociologie]]
 ### 🔬 [[Analyses et rattachement]]
 
 ### 🗺️ [[Cartographie]]

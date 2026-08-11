@@ -8,7 +8,7 @@ date_maj: 2026-06-17
 auteurs:
   - Augustin Soulard
 sources:
-  - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
+  - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
   - "[[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]"
 ---
 Syn. : Ammophiletum arundinaceae Braun.-Blanq. 1921 ; ass. à Ammophila arundinacea et Medicago marina Braun-Blanq. 1931 ; Echinophoro spinosae - Ammophiletum arundinaceae Géhu et al. 1972 in Géhu et al. 1984. 

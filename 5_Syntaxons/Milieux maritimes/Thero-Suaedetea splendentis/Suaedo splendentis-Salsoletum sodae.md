@@ -8,7 +8,7 @@ date_maj: 2026-06-17
 auteurs:
   - Augustin Soulard
 sources:
-  - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
+  - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
   - "[[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]"
 ---
 Syn. : ass. à Salsola soda et Suaeda splendens Braun-Blanq. 1931 ; ass. à Salsola soda et Suaeda splendens Braun-Blanq. 1933 ; Suaedo - Atriplicetum salinae (Braun-Blanq. 1931) Molin. & Tallon 1970 p.p. (sous-ass. à Suaeda splendens et sous-ass. à Salsola soda). 

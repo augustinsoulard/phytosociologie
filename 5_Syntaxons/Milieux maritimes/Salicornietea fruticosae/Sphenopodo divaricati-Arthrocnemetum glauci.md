@@ -8,7 +8,7 @@ date_maj: 2026-06-17
 auteurs:
   - Augustin Soulard
 sources:
-  - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
+  - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
   - "[[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]"
 ---
 Syn. : Ass. à Arthrocnemum glaucum et Sphenopus divaricatus Braun-Blanq. 1933 ; Salicornietum macrostachyae Braun-Blanq. 1928 ; Puccinellio convolutae - Arthrocnemetum macrostachyi (Braun-Blanq. 1928) Géhu ex Géhu et al. 1984. 

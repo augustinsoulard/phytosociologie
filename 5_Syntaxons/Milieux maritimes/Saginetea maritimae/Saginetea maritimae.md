@@ -1,14 +1,14 @@
 ---
 tags:
   - classe
-syntaxon_superieur: 
-syntaxon_inferieur: 
-especes_indicatrices: 
+syntaxon_superieur:
+syntaxon_inferieur:
+especes_indicatrices:
 date_maj: 2026-06-15
 auteurs:
   - Augustin Soulard
 sources:
-  - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
+  - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
 **Description** : Végétation pionnière de schorres, annuelle, halophile à subhalophile (parfois subnitrophile), des substrats sablo-limoneux ou graveleux, secs en été, des littoraux atlantiques, méditerranéens et macaronésiens. 
 

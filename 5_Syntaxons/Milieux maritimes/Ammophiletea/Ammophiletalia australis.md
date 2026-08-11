@@ -7,7 +7,7 @@ date_maj: 2026-06-17
 auteurs:
   - Augustin Soulard
 sources:
-  - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
+  - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
   - "[[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]"
 ---
 Végétation herbacée vivace pionnière des dunes embryonnaires et des dunes blanches mobiles à semi-fixées des littoraux de l'Europe thermo-atlantique, de la Méditerranée et des mers Noire et Caspienne. 

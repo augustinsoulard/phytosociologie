@@ -8,7 +8,7 @@ date_maj: 2026-06-15
 auteurs:
   - Augustin Soulard
 sources:
-  - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
+  - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
 Végétation annuelle aquatique flottante, de micro- et mésopleustophytes des eaux douces à subsaumâtres de l'Europe tempérée. 
 

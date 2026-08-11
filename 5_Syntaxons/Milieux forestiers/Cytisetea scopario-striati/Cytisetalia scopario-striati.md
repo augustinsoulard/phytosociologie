@@ -8,7 +8,7 @@ date_maj: 2026-06-23
 auteurs:
   - Augustin Soulard
 sources:
-  - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
+  - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
 **Description** : Fourrés pionniers. Fourrés arbustifs, souvent dominés par des Fabaceae, sur sols acides.
 

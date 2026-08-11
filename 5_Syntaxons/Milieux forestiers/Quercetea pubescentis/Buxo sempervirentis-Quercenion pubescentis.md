@@ -8,7 +8,7 @@ date_maj: 2026-06-15
 auteurs:
   - Augustin Soulard
 sources:
-  - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
+  - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
 **Description** : Chênaies pubescentes ne dépassant pas les Cévennes, le sud du Massif central, les Causses du Quercy, et remontant dans le centre-ouest (en évitant le sud-ouest aquitain)
 

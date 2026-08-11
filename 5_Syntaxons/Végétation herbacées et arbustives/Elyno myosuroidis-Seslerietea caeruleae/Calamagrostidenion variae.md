@@ -2,13 +2,13 @@
 tags:
   - sous-alliance
 syntaxon_superieur: "[[Caricion ferrugineae]]"
-syntaxon_inferieur: 
-especes_indicatrices: 
+syntaxon_inferieur:
+especes_indicatrices:
 date_maj: 2026-06-15
 auteurs:
   - Augustin Soulard
 sources:
-  - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
+  - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
 Associations :
 - [[Calamagrostietum variae]] W. Lüdi 1921 ;

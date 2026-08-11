@@ -8,7 +8,7 @@ date_maj: 2026-06-14
 auteurs:
   - Augustin Soulard
 sources:
-  - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
+  - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
 Communautés pionnières le plus souvent éphémères des milieux peu profonds ou temporaires, basiques, parfois sub-saumâtres, mésotrophes à légèrement eutrophes.
 

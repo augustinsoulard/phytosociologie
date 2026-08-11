@@ -8,7 +8,7 @@ date_maj: 2026-06-17
 auteurs:
   - Augustin Soulard
 sources:
-  - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
+  - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
   - "[[Noble et Baret - 2019 - Catalogue des végétations du département des Bouches-du-Rhône.pdf]]"
 ---
 Syn. : Salicornietum radicantis Braun-Blanq. 1931 ; Salicornietum radicantis Braun-Blanq. 1933 ; Puccinellio festuciformis - Arthrocnemetum perennis (Braun-Blanq. 1931) Géhu 1976 ; Puccinellio festuciformis - Sarcocornietum perennis (Braun-Blanq. 1931) Géhu 1976 ; Sarcocornietum deflexae (Braun-Blanq. 1931) Lahondère et al. 1992 ; incl. Puccinellio festuciformis - Sarcocornietum alpini Castrov. & Cirujano 1980. 

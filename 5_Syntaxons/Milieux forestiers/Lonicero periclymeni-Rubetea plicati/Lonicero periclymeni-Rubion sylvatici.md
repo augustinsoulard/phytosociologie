@@ -2,13 +2,13 @@
 tags:
   - alliance
 syntaxon_superieur: "[[Rubetalia plicati]]"
-syntaxon_inferieur: 
-especes_indicatrices: 
+syntaxon_inferieur:
+especes_indicatrices:
 date_maj: 2026-06-15
 auteurs:
   - Augustin Soulard
 sources:
-  - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
+  - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
 Associations :
 - [[Rubetum grati]] Tüxen et A. Neumann ex H.E. Weber 1976 ; 

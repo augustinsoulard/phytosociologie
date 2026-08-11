@@ -8,7 +8,7 @@ date_maj: 2026-06-15
 auteurs:
   - Augustin Soulard
 sources:
-  - "[[Lafon et al. - 2024 - Catalogue de la végétation de France métropolitaine (CatVeg).pdf]]"
+  - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
 **Description** : Végétation herbacée vivace chaméphytique, halotolérante, des garrigues primaires sur substrats rocheux du littoral tyrrhénien de la Méditerranée nord-occidentale. Falaises des Alpes-maritimes et de Corse
 
