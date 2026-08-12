@@ -4,15 +4,15 @@ sources:
 ---
 **Sommaire**
 
-- [1. Rappel : l'aire minimale classique](#1. Rappel : l'aire minimale classique)
-- [2. Les trois paramètres conditionnant l'aire minimale](#2. Les trois paramètres conditionnant l'aire minimale)
-- [3. Limites des préconisations classiques](#3. Limites des préconisations classiques)
-- [4. L'aire minimale théorique](#4. L'aire minimale théorique)
-- [5. Première correction : le recouvrement total](#5. Première correction : le recouvrement total)
-- [6. Deuxième correction : la dominance — l'aire minimale adaptée](#6. Deuxième correction : la dominance — l'aire minimale adaptée)
-- [7. Application aux relevés de la bibliographie](#7. Application aux relevés de la bibliographie)
-- [8. Annexe : les 7 aires minimales théoriques](#8. Annexe : les 7 aires minimales théoriques)
-- [9. Bibliographie](#9. Bibliographie)
+- [[#1. Rappel l'aire minimale classique]]
+- [[#2. Les trois paramètres conditionnant l'aire minimale]]
+- [[#3. Limites des préconisations classiques]]
+- [[# 4. L'aire minimale théorique]]
+- [[#5. Première correction le recouvrement total]]
+- [[#6. Deuxième correction la dominance - l'aire minimale adaptée]]
+- [[#7. Application aux relevés de la bibliographie]]
+- [[#8. Les 7 aires minimales théoriques]]
+- [[#9. Bibliographie]]
 
 ## 1. Rappel : l'aire minimale classique
 
@@ -28,11 +28,11 @@ sources:
 - dans cette perspective, la question de l'aire minimale peut être assimilée à celle de l'**effort d'inventaire** à effectuer pour trouver la **deuxième espèce** (la première espèce notée marquant le début du relevé) ;
 - cet effort, et donc l'aire minimale, dépend de **trois paramètres** :
 
-| Paramètre | Effet sur l'effort d'inventaire |
-| --- | --- |
-| **Espace vital des espèces** — la hauteur des espèces est globalement proportionnelle à leur espace vital | plus les espèces sont grandes, plus le prospecteur devra arpenter de terrain pour accéder à la deuxième espèce |
-| **Recouvrement de la végétation** | lorsque le recouvrement est faible, le prospecteur devra arpenter plus de terrain |
-| **Abondance-dominance de l'espèce dominante** | lorsqu'une espèce domine largement la végétation, la place restante pour les autres espèces est rare et le prospecteur devra arpenter plus de terrain |
+| Paramètre                                                                                                 | Effet sur l'effort d'inventaire                                                                                                                       |
+| --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Espace vital des espèces** - la hauteur des espèces est globalement proportionnelle à leur espace vital | plus les espèces sont grandes, plus la deuxième espèce sera loin en moyenne                                                                           |
+| **Recouvrement de la végétation**                                                                         | lorsque le recouvrement est faible, le prospecteur devra choisir une plus grande surface pour être représentative de la végétation                    |
+| **Abondance-dominance de l'espèce dominante**                                                             | lorsqu'une espèce domine largement la végétation, la place restante pour les autres espèces est rare et le prospecteur devra arpenter plus de terrain |
 
 - Bien que cela n'ait vraisemblablement jamais été formulé, les préconisations classiques d'aires minimales **tiennent partiellement compte de ces trois paramètres** :
 	- c'est ce qui explique la tendance à utiliser des surfaces de relevés **plus grandes pour les cariçaies** (*Phragmito australis - Magnocaricetea elatae*) **que pour les mégaphorbiaies** (*Filipendulo ulmariae - Convolvuletea sepium*), alors que la hauteur de la végétation est comparable ;
@@ -61,14 +61,14 @@ sources:
 
 ## 5. Première correction : le recouvrement total
 
-> [!abstract] Règle n° 1 — tenir compte du recouvrement total
+> [!abstract] Règle n° 1 - tenir compte du recouvrement total
 > L'**aire minimale théorique** devra être **divisée par le recouvrement de la végétation en base 1**.
 
 - *Exemple* : pour une communauté de l'*Euphorbio paraliae - Ammophiletum arenariae* de recouvrement = **40 %**, l'aire minimale théorique des *Euphorbio paraliae - Ammophiletea australis* ayant été fixée à **20 m²**, l'aire du relevé de cette communauté devra être supérieure à : **20/0,4 = 50 m²**.
 
-## 6. Deuxième correction : la dominance — l'aire minimale adaptée
+## 6. Deuxième correction : la dominance - l'aire minimale adaptée
 
-> [!abstract] Règle n° 2 — tenir compte de la dominance d'une espèce
+> [!abstract] Règle n° 2 - tenir compte de la dominance d'une espèce
 > L'**aire minimale théorique** devra être divisée par le **recouvrement total (en base 1) qu'ont toutes les espèces de la communauté végétale, à l'exclusion de l'espèce dominante**. Cette aire minimale adaptée en fonction des caractéristiques de la communauté végétale relevée est désignée par l'expression « **aire minimale adaptée** ».
 
 - *Exemple* : pour une communauté de l'*Euphorbio paraliae - Ammophiletum arenariae* **dense mais largement dominée** par *Ammophila arenaria*, de telle sorte que les autres espèces ont un recouvrement total de **20 %**, l'aire du relevé devra être supérieure à : **20/0,2 = 100 m²** ;
@@ -78,10 +78,10 @@ sources:
 
 - Il est possible d'appliquer ce deuxième principe à des **relevés de la bibliographie**, afin de **contrôler la pertinence des aires de relevés choisies** ;
 
-> [!abstract] Règle n° 3 — cas des relevés de la bibliographie
+> [!abstract] Règle n° 3 - cas des relevés de la bibliographie
 > On retiendra comme surface occupée par l'espèce dominante la **borne inférieure de sa classe d'abondance-dominance** (ab-dom = 5 ⇒ 75 % ; 4 ⇒ 50 %…). L'aire occupée par les espèces non dominantes sera donc égale à : **recouvrement total − borne inférieure d'abondance-dominance**.
 
-- *Exemple 1* — relevé d'une communauté de l'*Euphorbio paraliae - Ammophiletum arenariae* :
+- *Exemple 1* - relevé d'une communauté de l'*Euphorbio paraliae - Ammophiletum arenariae* :
 
 | Taxon | Coefficient |
 | --- | --- |
@@ -94,7 +94,7 @@ sources:
 
 L'aire de relevé aurait dû être supérieure à : **20/(0,6−0,5) = 20/0,1 = 200 m²** (espèce dominante notée 4 ⇒ borne inférieure 50 %).
 
-- *Exemple 2* — relevé d'une communauté du *Littorello uniflorae - Baldellietum ranunculoidis* :
+- *Exemple 2* - relevé d'une communauté du *Littorello uniflorae - Baldellietum ranunculoidis* :
 
 | Taxon | Coefficient |
 | --- | --- |

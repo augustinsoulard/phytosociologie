@@ -6,7 +6,7 @@ sources:
 # Initiation à la phytosociologie
 
 > [!important]
-> Ce texte est une reprise du cours, sous forme de diaporama, réalisé par le CBNFC en 2009 et intitulé *Initiation à la phytosociologie* : [[formationphy2009_ecran.pdf]]
+> Ce texte est une reprise du cours, sous forme de diaporama, réalisé par le CBNFC en 2009 et intitulé *Initiation à la phytosociologie* : [[formationphy2009_ecran.pdf]]. Il a été complété par diverses sources citées à la fin de ce document.
 
 **Sommaire**
 - [[#1. Notion de groupement végétal]]
@@ -35,6 +35,15 @@ Des typologies des formations végétales ont ensuite été proposées par **Bro
 
 **Salvador Rivas-Martinez (1996)** définit la formation végétale comme un *ensemble de communautés végétales propre à un grand territoire, délimité par la physionomie résultant de l'organisation spatiale conférée par les formes biologiques des plantes dominantes*.
 
+| Formation                      | Définition opérationnelle                                                                                                      |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
+| **Forêt**                      | Formations arborescentes ≥ 7 m de haut (parfois 5 m en contexte alluvial), couronnes contiguës ou à vides réduits              |
+| **Fourré**                     | Formations arbustives de 0,5 à 7 m, dominées par les nanophanérophytes                                                         |
+| **Fourré nain**                | Formations arbustives < 0,5 m, dominées par les chaméphytes frutescents (sauf tourbières à sphaignes)                          |
+| **Végétation herbacée**        | Plantes vasculaires non ou à peine ligneuses, dressées par elles-mêmes (y compris rampantes)                                   |
+| **Végétation aquatique**       | Formations inondées quasi en permanence, espèces incapables de se dresser hors de l'eau (≠ végétations amphibies dimorphiques) |
+| **Végétation bryo-lichénique** | Dominée par les bryophytes et lichens                                                                                          |
+(*Source Delassus, 2015*)
 ### 1.2. Le groupement végétal ou la communauté végétale
 
 > [!note] Définition
@@ -50,6 +59,13 @@ Le concept de continuum pose pour principe que **chaque espèce présente une r�
 - ce concept, inspiré par **Gleason** et développé aux États-Unis par **Curtis et Mac Intosh**, remet en cause l'association végétale telle que définie par la phytosociologie.
 
 La phytosociologie, au contraire, **est fondée sur la recherche de discontinuités**.
+
+La notion d'ensemble flous, en phytosociologie vient répondre à cette problématique du continuum.
+
+> [!note] L'ensemble flou
+> - **Foucault (1980)** introduit pour les individus d'association la notion **d'ensembles flous** : « dans tout ensemble flou, même s'il passe de façon presque continue à un ensemble contigu, on peut délimiter un **sous-ensemble homogène optimal** et c'est dans ce sous-ensemble qu'on doit effectuer le relevé » (Meddour, 2011) ;
+> - **Dupouey (1988)** souligne l'intérêt de cette notion en phytosociologie forestière et montre qu'elle apporte un élément de solution au problème du continuum : elle permet de distinguer des types de végétation **tout en intégrant les variations continues** (relevés typiques vs relevés intermédiaires ou hybrides).
+
 
 ---
 
@@ -159,6 +175,7 @@ Le terme est créé par **Józef Paczoski (1864-1942)**, botaniste polonais, à 
 > [!note] L'unité conceptuelle de base
 > L'**association végétale** est l'unité conceptuelle de base de la phytosociologie. Plusieurs définitions ont été proposées au cours du temps par les auteurs :
 >
+> -  **Flahault & Schröter (1910)** : « Une association est un groupement végétal de composition floristique déterminée, présentant une physionomie uniforme et croissant dans des conditions stationnelles uniformes également. »
 > - **J. Pavillard (1927)** : « je ne crois pas à la possibilité de définir l'association, pas plus que l'espèce » ;
 > - **M. Guinochet (1973)** : « une association végétale est une combinaison originale d'espèces dont certaines, dites caractéristiques, lui sont plus particulièrement liées, les autres étant qualifiées de compagnes ».
 
@@ -166,6 +183,24 @@ La définition retenue dans ce cours (adaptée de **F. Gillet et al., 1991**) :
 
 > [!quote] Définition de l'association (adaptée de F. Gillet et al., 1991)
 > Une association est une **unité abstraite fondamentale de la classification hiérarchique des individus d'association**, constituée de un ou plusieurs **syntaxons élémentaires** partageant significativement **plus de caractères communs que de caractères différentiels**. Les **caractères floristiques sont prioritaires** sur les propriétés structurelles, chorologiques, historiques et écologiques.
+
+### 4.4. Le relevé phytosociologique ≠ tout relevé de végétation
+
+> [!warning] Distinction fondamentale
+> **Tous les relevés quantifiés ou semi-quantifiés d'espèces ne constituent pas un relevé phytosociologique.** Les relevés de suivi de stations d'espèces ou de mesure de gestion sont souvent réalisés dans des individus peu caractéristiques et ne respectent pas le protocole (triple homogénéité, aire minimale, période optimale) : leurs objectifs sont différents (évolution du couvert, efficacité d'une gestion, pression de la végétation sur une espèce patrimoniale, description de biotope).
+
+**Analogies et cas d'usage** :
+- le relevé phytosociologique est **« l'équivalent, pour la végétation, de ce qu'est la part d'herbier pour la flore »** : il n'est réalisé que dans des individus bien développés (saturés en espèces) ;
+- un relevé est réalisé : en cas de **doute** sur la détermination d'un syntaxon ; pour créer une **référence** attestant la présence de syntaxons sur un site ; pour **compléter les catalogues** ; pour **valoriser** les observations de terrain ; pour **accumuler des relevés** sur des végétations rares ; pour **conforter la caractérisation** d'un syntaxon.
+
+### 4.6. Groupements fragmentaires et communautés basales
+
+|         | **Groupement fragmentaire**                                                                                                                                                        | **Communauté basale**                                                                                                                                                                                                                          |
+| ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Cause   | **Manque de place** : l'unité ne dispose pas de la surface suffisante (aire minimale) pour se développer normalement ; tous les taxons caractéristiques ne peuvent pas s'installer | **Cortège appauvri malgré une place suffisante**, à cause d'un **facteur externe (généralement anthropique)** qui élimine les espèces d'amplitude étroite, ou de la **jeunesse du groupement** (les espèces plastiques se propagent plus vite) |
+| Flore   | Espèces de l'association incomplètes                                                                                                                                               | Seulement des espèces caractéristiques/différentielles **des unités supérieures au rang de l'association**                                                                                                                                     |
+| Devenir | Relevé **non exploitable** pour un inventaire des communautés                                                                                                                      | Rattachement noté **BC *Taxon* [*Syntaxon*]** (Taxon = le plus marquant ; Syntaxon = unité supérieure rattachée)                                                                                                                               |
+Origine du concept : **Kopecky & Hejny (1974)**. La distinction (notée dans les caractéristiques d'échantillonnage) permet de discriminer les relevés à faible nombre d'espèces caractéristiques.
 
 ---
 
@@ -175,6 +210,16 @@ La définition retenue dans ce cours (adaptée de **F. Gillet et al., 1991**) :
 
 - La mise en évidence des associations végétales s'appuie **essentiellement sur leur composition floristique** ;
 - la première étape consiste donc à réaliser des **relevés** selon un plan d'échantillonnage, sur une **surface homogène et représentative** de l'individu d'association.
+
+[[Delassus - 2015 - Guide de terrain.pdf|Delassus (2015)]] propose 5 étapes pour la saisie d'un relevé :
+
+| Étape                                 | Contenu                                                                                                                                                                                                                                                                        |
+| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **1. Identité du relevé**             | Identifiant ; projet ; observateur(s) ; date ; localisation ; description floristico-écologique ; *rattachement au synsystème dans la mesure du possible* ; caractéristiques d'échantillonnage ; forme ; physionomie ; données stationnelles ; photographie ; transect/schémas |
+| **2. Liste floristique**              | Exhaustive, **strate par strate**                                                                                                                                                                                                                                              |
+| **3. Surface, recouvrement, hauteur** | Surface (m²), recouvrement total et par strate (%), hauteur par strate                                                                                                                                                                                                         |
+| **4. Coefficients**                   | Abondance-dominance (obligatoire), sociabilité (optionnel), vitalité (optionnel)                                                                                                                                                                                               |
+| **5. Vérification**                   | Check-list des champs obligatoires (voir plus bas)                                                                                                                                                                                                                             |
 
 ### 5.2. Plan d'échantillonnage
 
@@ -190,16 +235,48 @@ On pratique généralement un **échantillonnage stratifié** :
 > [!warning] Le fait unique n'a aucun intérêt
 > Le phytosociologue ne doit pas perdre de vue que **le fait unique n'a aucun intérêt** : c'est le premier critère dont il devra tenir compte lors de la mise en œuvre de son plan d'échantillonnage.
 
+Il est également important de bien **choisir les périodes de passages.**
+
+Calendrier indicatif (Géhu, 2006) :
+
+| Type de végétation          | Période optimale    |
+| --------------------------- | ------------------- |
+| Prairies                    | mai – juin          |
+| Pelouses sèches et dunaires | mars – mai          |
+| Forêts                      | avril – mai/juin    |
+| Prés salés                  | juillet – septembre |
+- D'après Delassus (2015), le relevé est une **« photographie à un instant t »** : on peut repasser pour **valider une détermination**, mais **il est interdit de compléter la liste des espèces ou de modifier les coefficients** lors du passage de validation (sinon l'information de la date perd son sens temporel et saisonnier) ;
+- si la période optimale est inconnue ou en cas d'alternance de phénophases : possibilité de réaliser **plusieurs relevés sur la même aire-échantillon à des dates différentes** (Gillet, 2000), en conservant le plus représentatif ;
+- les espèces non identifiées le jour J sont notées  au genre ou la mention "doute" peut-être ajoutée (ex. *Rubus* sp.) ; **le coefficient d'abondance-dominance reste celui du jour du relevé**.
+
 ### 5.3. Surface homogène et représentative
+
+##### Quelques conseils pratiques (Delassus, 2015) :
+***Délimitation des unités de végétation homogènes :***
+- repérer d'abord l'uniformité des **couleurs et textures**, la **répétition d'un motif** sur le sol, la **cohérence de la stratification verticale** (« compétence visuelle ») ; puis vérifier l'homogénéité floristique et l'absence de rupture écologique ;
+- **ne pas confondre** la structure agrégative des espèces au sein d'un même individu d'association avec la **mosaïque répétitive** de types de structures juxtaposés (ex. tourbières à sphaignes : bombements/dépressions ; forêts à clairières) ;
+- **ne pas se hâter** : parcourir le site dans sa globalité avant de relever ; sur un grand site, chercher des individus suffisamment caractéristiques ; sinon prospecter les alentours proches ;
+- éviter les relevés dans les **groupements fragmentaires** et les **zones de transition dynamique** (prairies abandonnées…) : privilégier la recherche d'individus caractéristiques des **deux stades dynamiques** qui se succèdent ;
+- en cas de doute : multiplier les relevés, quitte à écarter ensuite les moins représentatifs.
+
+***Localisation du relevé au sein de l'individu :***
+- choix **au centre** de l'individu d'association, en évitant les **marges** (effet de lisière dû au continuum) et les **singularités** (passages d'animaux, zones hétérogènes) ;
+- le choix **ne doit pas être influencé** par le désir d'inclure le maximum d'espèces ou une espèce rare (le maximum d'espèces peut traduire une limite avec un autre individu !).
+
+***Relevés autour des espèces à forte valeur patrimoniale :***
+- possible seulement si la **triple homogénéité** est respectée ; si l'espèce est à la jonction de deux individus d'association : réaliser **deux relevés** et expliquer la situation ;
+- si l'individu est peu caractérisé (intermédiaire dynamique, phase d'installation) : réaliser **un autre relevé** dans un individu proche écologiquement et floristiquement analogue.
+
+> [!note] La triple homogénéité
+> L'individu d'association est défini sur le terrain par la **règle de la triple homogénéité** : homogénéité **floristique** (composition spécifique) + **physionomique** (structure) + **écologique** (conditions stationnelles). C'est le critère opérationnel de délimitation des unités de végétation (Delassus, 2015).
 
 - Un **individu d'association** est un « ensemble flou » de végétaux ;
 - afin de définir une surface homogène représentative de l'individu d'association, on **néglige les zones de transition** ;
 - la surface retenue présente une **forte homogénéité des facteurs liés aux milieux** : même substrat, même pente, même exposition, même éclairement… ;
 - on s'assure de procéder dans le cadre d'une **formation végétale homogène** ;
 - on vérifie que la **composition floristique est la même partout** sur cette surface : on explore la surface dans **plusieurs directions** - tant que la composition de la flore ne change pas brusquement, on peut estimer que l'on n'est pas sorti des limites de l'individu d'association ;
-- la surface doit être **suffisamment grande pour être représentative** : elle est généralement désignée comme l'**aire minimale** ;
+- la surface doit être **suffisamment grande pour être représentative** : elle est généralement désignée comme l'**[[#5.4. Aire minimale|aire minimale]]** ;
 - dans le cas contraire, on risque d'échantillonner un **individu fragmentaire**, non représentatif, susceptible de poser d'importants problèmes lors de l'interprétation.
-
 ### 5.4. Aire minimale
 
 Le concept d'aire minimale a été défini par **J. Braun-Blanquet et J. Pavillard (1928)** :
@@ -223,32 +300,52 @@ Un relevé n'est considéré comme **représentatif** de l'individu d'associatio
   - dans le cas étudié, l'aire minimale « absolue » (plafonnement réel de la courbe) est en fait **supérieure à 2 000 m²**, surface largement supérieure à toutes celles habituellement considérées pour des communautés herbacées ;
   - ces résultats confirment les observations de **M. Gounot** : « il semble plutôt que le nombre d'espèces croisse d'une manière plus ou moins linéaire en fonction du logarithme de la surface inventoriée, dans la gamme de surfaces où l'on situe généralement l'aire minimale ».
 
+Deux méthodes de délimitation de l'aire à échantillonner peuvent être appliquées selon l'état de **fragmentation** de l'individu d'association :
+
+1. **Relevé non fragmenté** - pour des individus peu fragmentés, à large développement spatial, dont l'aire-échantillon peut se réduire à un unique quadrilatère : on relève une portion homogène de l'individu d'association, en évitant les zones de contact avec les autres individus d'association ;
+2. **Relevé fragmenté** - pour des individus fragmentés en taches plus ou moins régulières et bien délimitées, où aucune tache ne possède une surface suffisante pour atteindre l'aire minimale : on additionne les surfaces de **plusieurs fragments homogènes** de l'individu d'association.
+
 > [!tip] Conséquence méthodologique
 > Il est toujours souhaitable d'exécuter un relevé sur une **portion la plus grande possible** d'un individu d'association, **bien au-delà de l'aire minimale empirique apparente**, dans les seules limites de l'**homogénéité floristique, structurale et écologique** nécessaire.
 
 **Valeurs empiriques habituellement retenues :**
 
-| Groupement                                                                      | Surface      |
-| ------------------------------------------------------------------------------- | ------------ |
-| Associations de bryophytes ou de micro-spermaphytes (gpt à *Sagina procumbens*) | quelques dm² |
-| Pelouses (hémicryptophytes, petits chaméphytes)                                 | 10–20 m²     |
-| Prairies ou ourlets (hémicryptophytes)                                          | 20–50 m²     |
-| Landes (grands chaméphytes)                                                     | 50–100 m²    |
-| Forêts (phanérophytes)                                                          | 300–1 000 m² |
+| Groupement             | Surface (CBNFC 2009)     | **Surface** (Delassus, 2015)    |
+| ---------------------- | ------------------------ | ------------------------------- |
+| Pelouses               | 10–20 m²                 | **1–2 à 10 m²**                 |
+| Bas-marais / tourbière | —                        | **5–20 m²**                     |
+| Prairies               | 20–50 m²                 | **16–25 m² (50 si nécessaire)** |
+| Mégaphorbiaie          | —                        | **16–25 m² (50 si nécessaire)** |
+| Roselière / cariçaie   | —                        | **30–50 m² voire plus**         |
+| Ourlet linéaire        | 20–50 m² (avec prairies) | **10–20 m²**                    |
+| Landes                 | 50–100 m²                | **50–200 m²**                   |
+| Fourré                 | —                        | **50–100 m² voire 200 m²**      |
+| Forêts                 | 300–1 000 m²             | **300–800 m²**                  |
 
 **Une modernisation de cette méthode a été proposée par Emmanuel Catteau** : [[Aire minimale selon Catteau 2019]]
-### 5.5. Méthodes de relevé
+### 5.5. Stratification codifiée et règles d'inventaire
 
-Deux méthodes peuvent être appliquées selon l'état de **fragmentation** de l'individu d'association :
+Codes de strates utilisés en forêt (et adaptables ailleurs)
 
-1. **Relevé non fragmenté** - pour des individus peu fragmentés, à large développement spatial, dont l'aire-échantillon peut se réduire à un unique quadrilatère : on relève une portion homogène de l'individu d'association, en évitant les zones de contact avec les autres individus d'association ;
-2. **Relevé fragmenté** - pour des individus fragmentés en taches plus ou moins régulières et bien délimitées, où aucune tache ne possède une surface suffisante pour atteindre l'aire minimale : on additionne les surfaces de **plusieurs fragments homogènes** de l'individu d'association.
+| Code | Strate | Hauteur indicative |
+|---|---|---|
+| **A** | arborescente (arbres de 1ʳᵉ et 2ᵉ grandeurs) | > 7 m |
+| **a1** | arbustive supérieure (arbustes hauts, jeunes arbres) | 3 – 7 m |
+| **a2** | arbustive basse (arbustes bas, jeunes arbres) | 1 – 7 m (tel qu'imprimé dans le guide ; probable coquille pour 1–3 m) |
+| **h** | herbacée (herbacées, chaméphytes, jeunes plantules ligneuses) | < 1 m |
+| **m** | bryo-lichénique — **seulement au sol** (exclut épiphytes, épilithes, saprophytes) | — |
+- les jeunes ligneux en strate herbacée/arbustive peuvent être marqués **« j »** (juvénile). Il peut être noté dans une strate à part entière ou directement dans les données associées à l'espèce.
+
+- les hauteurs sont des indications : les strates a1/a2 peuvent ne pas être distinguables ; les noms de strates ne présagent pas du type biologique ;
+- si la strate herbacée est **bistratifiée** (haute dressée / basse rampante ou rosette) : l'indiquer ; **les inflorescences ne constituent pas une strate**.
 
 ### 5.6. La liste floristique
 
 - L'emplacement du relevé étant délimité, on procède à l'**échantillonnage floristique** : dresser la liste **la plus complète possible des taxons** (espèces, sous-espèces, variétés) représentés dans l'aire-échantillon ;
 - en théorie, **tous les végétaux** devraient être relevés (spermaphytes, bryophytes, ptéridophytes, algues) ;
-- dans la pratique, compte tenu des compétences des botanistes, seuls les **spermaphytes et les ptéridophytes** (rarement les bryophytes) sont relevés ;
+- dans la pratique, compte tenu des compétences des botanistes, seuls les **spermaphytes et les ptéridophytes** (rarement les bryophytes) sont relevés. Si la bryophole est relevée, les espèces relevées doivent se trouver **sur le même substrat que les espèces vasculaires** (en général le sol) - exclure épilithiques, épiphytiques, saprophytiques (sauf relevés dédiés) ; liste exhaustive également.
+-  commencer par les **graminoïdes** (pour ne pas les oublier) ; exhaustivité absolue (chaque taxon, même peu abondant, peut être caractéristique) ;
+- nomenclature = utiliser le **dernier TAXREF en vigueur** ;
 - les espèces dont l'appartenance à l'individu d'association est **douteuse** peuvent être ajoutées à la liste du relevé et mentionnées comme telles ; elles seront ignorées dans les traitements ultérieurs, au moins dans un premier temps.
 
 ### 5.7. Les indices d'abondance-dominance et d'agrégation
@@ -265,10 +362,10 @@ L'**indice d'abondance-dominance** est une estimation globale de la **densité**
 | Classe | Signification                                                                  |
 | ------ | ------------------------------------------------------------------------------ |
 | **i**  | un individu (facultatif)                                                       |
-| **r**  | Moins d'une dizaine d'individu (facultatif)                                    |
+| **r**  | Moins d'une dizaine d'individu, recouvrement < 1 % (facultatif)                |
 | **+**  | éléments peu ou très peu abondants, recouvrement inférieur à 5 % de la surface |
-| **1**  | éléments assez abondants, recouvrement inférieur à 5 % de la surface           |
-| **2**  | éléments très abondants, recouvrement inférieur à 25 % de la surface.          |
+| **1**  | recouvrement inférieur à 5 % de la surface                                     |
+| **2**  | recouvrement entre 5 à 25 % de la surface.                                     |
 | **3**  | recouvrement compris entre 25 et 50 % de la surface, abondance quelconque      |
 | **4**  | recouvrement compris entre 50 et 75 % de la surface, abondance quelconque      |
 | **5**  | recouvrement supérieur à 75 % de la surface, abondance quelconque              |
@@ -293,25 +390,64 @@ L'**indice d'agrégation (ou de sociabilité)** est une estimation globale du **
 | **5** | éléments formant un seul peuplement dense |
 ![[indice_sociabilite.png]]
 (Source  : Gilletn 2000)
-### 5.8. Les données associées au relevé
+### 5.8. Recouvrement, hauteur, données stationnelles standardisées
 
-Le relevé floristique doit être complété par des indications précises permettant son **identification et sa localisation dans l'espace et dans le temps** :
+**Recouvrement (obligatoire) :**
+- total de la végétation = projection au sol des organes vivants, en % de la surface du relevé ; **les algues et la litière sont exclues** ;
+- dans les végétations ouvertes (fissures), le recouvrement est estimé **sur la surface des fissures** (hors roche) ;
+- par strate si stratification : **A, a1, a2, h, m** et **w** (strate algale).
 
-- **identification** : numéro du relevé ;
-- **situation géographique** : pays, département, commune, lieu-dit, coordonnées GPS, altitude ;
-- **caractères de l'aire-échantillon** : surface, recouvrement, relevé fragmenté ;
-- **date** : jour-mois-année ;
-- **localisation (micro-)topographique** : exposition, pente, surface inclinée, plane, convexe ou concave ;
-- **informations structurelles** : pourcentage de recouvrement, hauteur optimale, hauteur minimale, hauteur maximale, croquis de situation, contacts ;
-- **informations écologiques** : substrat géologique, pédologique ou biologique, microclimat, action de l'homme, etc. ;
-- **informations dynamiques** : Symphytosociologie, description de dynamique, présence d'espèces marquant la transition ;
-- Selon les besoin d'autres champs peuvent être ajoutés.
+**Recouvrement de la litière (optionnel) :** % - concerne les horizons **OL et OF** sans distinction.
+
+**Recouvrement du sol nu et de la roche (optionnel)
+
+**Hauteur de la végétation (obligatoire par strate) :**
+- hauteur **modale des organes végétatifs** (inflorescences exclues pour la moyenne) ; hauteur maximale possible (inflorescences incluses pour la strate herbacée) ;
+- strate herbacée bistratifiée → H moy haute + H moy basse ; unistratifiée → valeurs identiques ;
+- unités : **m** (strates arborée et arbustive), **cm** (herbacée, bryo-lichénique) ;
+
+| Rubrique                  | Statut                          | Contenu standardisé                                                                                                                                                                                                                                                                                                                                                                                                   |
+| ------------------------- | ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Identification            | obligatoire                     | numéro du relevé                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Observateur(s)            | obligatoire                     | Tous les participants au relevé                                                                                                                                                                                                                                                                                                                                                                                       |
+| Date                      | obligatoire                     | date selon le format jour/mois/année ou année-mois-jour                                                                                                                                                                                                                                                                                                                                                               |
+| Surface du relevé         | obligatoire                     | Surface relevé au final (prévoir un champs pour préciser si le relevé est fragmenté)                                                                                                                                                                                                                                                                                                                                  |
+| Localisation              | obligatoire                     | Coordonnées GPS suffisent, mais des champs peuvent être ajouté pour préciser (pays, département, commune, lieu-dit). Utiliser le SRC Lambert 93 ou WGS 84.                                                                                                                                                                                                                                                            |
+| Altitude                  | recommandé                      | mètres (GPS ou courbes IGN 1/25 000)                                                                                                                                                                                                                                                                                                                                                                                  |
+| Topographie               | optionnel                       | plat (< 1°), pentu (> 1°), dépression (ouverte/fermée), escarpement (> 45°), replat, sommet arrondi (butte, crête, croupe), sommet vif, versant (haut/mi/bas), talus                                                                                                                                                                                                                                                  |
+| Pente                     | recommandé                      | en degrés (bornes 1, 6, 27, 45, 75, 90) + drainage externe associé                                                                                                                                                                                                                                                                                                                                                    |
+| Exposition                | recommandé                      | orientation générale ; « indifférente » si plat sans obstacle                                                                                                                                                                                                                                                                                                                                                         |
+| Luminosité                | optionnel                       | lumière / mi-ombre / ombre (au niveau de la canopée)                                                                                                                                                                                                                                                                                                                                                                  |
+| Humidité du substrat      | recommandé                      | 7 classes + suintement, chacune définie par 4 critères (végétation, eau, sol, topographie) : toujours immergé, périodiquement submergé, humide, assez humide, bien drainé, assez sec, sec ; + niveau d'eau en cm                                                                                                                                                                                                      |
+| Roche mère                | recommandé                      | clé en 3 étapes : sédimentaire (fossiles) / métamorphique (structure orientée) / éruptive ; source : BRGM (infoterre)                                                                                                                                                                                                                                                                                                 |
+| Type de sol               | optionnel                       | Référentiel pédologique 2008 (Baize et al.) : squelettiques (lithosol, régosol), peu évolués (rankosol, arénosol, pélosol, fluviosol, colluviosol), carbonatés (rendosol, rendisol, calcosol, calcisol), brunisols (saturé, mésosaturé, oligosaturé), alocrisol, luvisols (néo, typique, dégradé), podzosols (typique, ocrique, leptique, sec, hydromorphe), hygromorphes (planosol, rédoxisol, réductisol, histosol) |
+| Texture du sol en surface | optionnel                       | triangle des textures (7 classes) + éléments grossiers (graveleux, caillouteux, pierreux, organique) ; **diagnostic tactile** (méthode tarière, Dupont et al. 1992 : estimation sable/argile/limon) + **test du boudin** et de l'anneau (> ou < 10 % / 30 % d'argile) ; pièges : MO humifiée → impression limoneuse, limons très fins selon l'humidité                                                                |
+| Salinité                  | optionnel                       | salé / saumâtre / ni salé ni saumâtre / inconnu (évalué via la flore ou le contexte)                                                                                                                                                                                                                                                                                                                                  |
+| Humus                     | optionnel (recommandé en forêt) | mull / moder / mor / tourbe (+ clé détaillée, cf. annexes)                                                                                                                                                                                                                                                                                                                                                            |
+| Maturité de la communauté | optionnel                       | juvénile / mature / sénescent (état des espèces structurantes, saturation du cortège) — permet d'éviter les individus transitoires                                                                                                                                                                                                                                                                                    |
+| Gestion observée          | recommandé                      | aucune, culture, production de bois, pâture, fauche, pâture+fauche, production fruitière/maraîchère, promenade/tourisme, pisciculture, faucardage, curage, prélèvement de sol, gestion inconnue                                                                                                                                                                                                                       |
+| Actions biotiques         | optionnel                       | espèces invasives, abroutissement (lapin, ragondin, grands mammifères), galeries, etc.                                                                                                                                                                                                                                                                                                                                |
+| Informations écologiques  | optionnel                       | - substrat géologique, pédologique ou biologique, microclimat, action de l'homme, etc. ; <br><br>- végétations en contact dans un contexte écologique **différent** (topographie, géologie) ; noter les identifiants des relevés associés.                                                                                                                                                                            |
+| Informations dynamiques   | optionnel                       | - Symphytosociologie, description de dynamique, présence d'espèces marquant la transition ;<br><br>- Végétations en contact dans les **mêmes conditions écologiques** mais précédant/succédant (dynamique) - noter les identifiants des relevés associés.                                                                                                                                                             |
+| Commentaires              | optionnel                       | texte libre                                                                                                                                                                                                                                                                                                                                                                                                           |
+**Description floristico-écologique (recommandée à obligatoire selon les auteurs)** - format imposé : **formation végétale + structure verticale/horizontale + facteur(s) écologique(s) déterminant(s) + 2 ou 3 espèces représentatives**. Ex. : « Prairie rase et irrégulière des pentes calcaires pâturées à *Cynosurus cristatus* et *Sanguisorba minor* » ; pour les ligneux, utiliser le genre de l'espèce dominante : « Saulaie haute et dense des hauts de vallées alluviales à *Salix atrocinerea*, *Tamus communis* et *Hedera helix* ».
+
+**Photographie (recommandée)** : toujours, pour faciliter le rattachement et sa validation par un tiers. 
+
+**Transect, schémas, végétations de contact (recommandé)** : replacer l'individu dans son contexte.
 
 ---
 
 ## 6. Première étape synthétique - mise en évidence et interprétation des syntaxons
 
 ### 6.1. Principes
+
+Avant d'aller plus loin dans les analyses de données, il faut noter que le rattachement à un syntaxon existant peut se faire par simple comparaison à la bibliographie, via les combinaisons caractéristiques ou les descritpions. Dans tous les cas, on recherche successivement les caractéristiques de la **classe** → **ordre** → **alliance** → **association** :
+1. **Classe** : critères d'architecture de la végétation (formations végétales), écologie et composition floristique générale ;
+2. **Niveaux inférieurs** : composition floristique, espèces caractéristiques des différents niveaux ;
+3. **Association** : combinaison caractéristique — « il faut qu'un certain nombre des espèces de la combinaison caractéristique soient présentes, **mais pas forcément toutes en même temps** » (science statistique).
+
+Dans une approche plus statistique, on cherche à analyser nos données nécessitant un travail avec les tableaux bruts produit lors de la phase d'inventaire. Les relevés deviennent une variable à analyser avec comme paramètre les espèces.
 
 - La comparaison d'un lot quelconque de relevés vise à établir une **partition** en un certain nombre d'**ensembles homogènes** (à l'intérieur desquels les relevés se ressemblent plus entre eux qu'ils ne ressemblent aux autres), correspondant à autant de **syntaxons élémentaires** (en abrégé **SyE**) ;
 - la comparaison des relevés peut se fait, dans un premier temps, **exclusivement en présence-absence**, sans tenir compte de l'abondance-dominance ni de l'agrégation des espèces ;
@@ -814,6 +950,7 @@ les objets (lignes) sont communs aux trois matrices (même dimension, même ordr
 - Brockmann-Jerosch H. & Rübel E. (1910) ; Diels L. (1912) ; Ellenberg H. & Mueller-Dombois D. (1967) – Typologies des formations végétales
 - De Foucault B. (1984) – Cadre conceptuel, loi phytosociologique, citation
 - De Foucault B. (1986) – Définition du syntaxon élémentaire
+- **Delassus, L. (2015). _Guide de terrainpour la réalisationdes relevés phytosociologiques_. [[Delassus - 2015 - Guide de terrain.pdf]]**
 - Duvigneaud P. (1946) ; Emberger L. (1897-1969) ; Daget P. (1964) ; Godron M. (1967) ; Gounot M. (1969) – Phytoécologie
 - Ellenberg H. et al. (1977) ; Landolt E. (1991) – Valeurs écologiques des espèces
 - Francius, Eric. (2019) – _Inventaire floristico-sociologique de la flore arvale et rudérale du Centre Inra Antilles Guyane_
@@ -828,6 +965,7 @@ les objets (lignes) sont communs aux trois matrices (même dimension, même ordr
 - Kuhnholtz-Lordat G. – École « ethnophytosociologique »
 - Lecoq H. (1802-1871) ; Flahaut C. (1852-1935) – Précurseurs
 - Marage D., Gégout J.-P. – Modélisation de l’évolution de la végétation
+- [[Meddour - 2011 - La méthode phytosociologique sigmatiste ou Braun-Blanqueto-Tüxenienne.pdf|Meddour R. (2011) – La méthode phytosociologique sigmatiste ou Braun-blanqueto-tüxenienne]]
 - Oksanen (package _vegan_), Chessel (package _ade4_) – R ; Ter Braak – CANOCO ; Legendre – Progiciel R 4.0d6
 - Paczoski J. (1864-1942) – Création du terme _« phytosociologie »_
 - Pavillard J. (1927) – Définition de l’association
