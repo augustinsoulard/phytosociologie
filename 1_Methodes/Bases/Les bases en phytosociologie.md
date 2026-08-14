@@ -63,7 +63,7 @@ La phytosociologie, au contraire, **est fondée sur la recherche de discontinuit
 La notion d'ensemble flous, en phytosociologie vient répondre à cette problématique du continuum.
 
 > [!note] L'ensemble flou
-> - **Foucault (1980)** introduit pour les individus d'association la notion **d'ensembles flous** : « dans tout ensemble flou, même s'il passe de façon presque continue à un ensemble contigu, on peut délimiter un **sous-ensemble homogène optimal** et c'est dans ce sous-ensemble qu'on doit effectuer le relevé » (Meddour, 2011) ;
+> - **Foucault (1980)** introduit pour les individus d'association la notion **d'ensembles flous** : « dans tout ensemble flou, même s'il passe de façon presque continue à un ensemble contigu, on peut délimiter un **sous-ensemble homogène optimal** et c'est dans ce sous-ensemble qu'on doit effectuer le relevé » ;
 > - **Dupouey (1988)** souligne l'intérêt de cette notion en phytosociologie forestière et montre qu'elle apporte un élément de solution au problème du continuum : elle permet de distinguer des types de végétation **tout en intégrant les variations continues** (relevés typiques vs relevés intermédiaires ou hybrides).
 
 
@@ -151,6 +151,8 @@ La phytosociologie naît avec les travaux du Zurichois **Josias Braun-Blanquet (
 - le concept de base repose sur la définition des **synusies végétales**, par opposition à la phytosociologie classique qui repose sur la définition de groupements à l'échelle de la **phytocénose** ;
 - en phytosociologie synusiale, les phytocénoses sont décrites **par intégration des synusies** ;
 - les niveaux supérieurs (**tesela**, **catena**) sont également décrits par intégrations successives des niveaux inférieurs.
+
+Pour avoir plus de détail sur l'histoire de la phytosociologie, se référer à l'article de [[GÉHU - 2010 - À l’occasion de son centenaire, rappel de l’origine et du développement de la Phytosociologie modern.pdf|Géhu à l'occasion de centenaire de la botanique (2010)]].
 
 ---
 
@@ -310,19 +312,22 @@ Deux méthodes de délimitation de l'aire à échantillonner peuvent être appli
 
 **Valeurs empiriques habituellement retenues :**
 
-| Groupement             | Surface (CBNFC 2009)     | **Surface** (Delassus, 2015)    |
-| ---------------------- | ------------------------ | ------------------------------- |
-| Pelouses               | 10–20 m²                 | **1–2 à 10 m²**                 |
-| Bas-marais / tourbière | —                        | **5–20 m²**                     |
-| Prairies               | 20–50 m²                 | **16–25 m² (50 si nécessaire)** |
-| Mégaphorbiaie          | —                        | **16–25 m² (50 si nécessaire)** |
-| Roselière / cariçaie   | —                        | **30–50 m² voire plus**         |
-| Ourlet linéaire        | 20–50 m² (avec prairies) | **10–20 m²**                    |
-| Landes                 | 50–100 m²                | **50–200 m²**                   |
-| Fourré                 | —                        | **50–100 m² voire 200 m²**      |
-| Forêts                 | 300–1 000 m²             | **300–800 m²**                  |
+| Groupement             | Aire minimale (CBNFC 2009) | **Aire minimale ** (Delassus, 2015) |
+| ---------------------- | -------------------------- | ----------------------------------- |
+| Pelouses               | 10–20 m²                   | **1–2 à 10 m²**                     |
+| Bas-marais / tourbière | —                          | **5–20 m²**                         |
+| Prairies               | 20–50 m²                   | **16–25 m² (50 si nécessaire)**     |
+| Mégaphorbiaie          | —                          | **16–25 m² (50 si nécessaire)**     |
+| Roselière / cariçaie   | —                          | **30–50 m² voire plus**             |
+| Ourlet linéaire        | 20–50 m² (avec prairies)   | **10–20 m²**                        |
+| Landes                 | 50–100 m²                  | **50–200 m²**                       |
+| Fourré                 | —                          | **50–100 m² voire 200 m²**          |
+| Forêts                 | 300–1 000 m²               | **300–800 m²**                      |
 
-**Une modernisation de cette méthode a été proposée par Emmanuel Catteau** : [[Aire minimale selon Catteau 2019]]
+> [!Danger] Important
+> **Une modernisation de cette méthode a été proposée par Emmanuel Catteau** : [[Aire minimale selon Catteau 2019]].
+> A mon sens, il s'agit de la méthode la plus pertinente à utiliser aujourd'hui malgré qu'elle soit encore peu connue. Elle bénéficie ainsi d'une note part entière.
+
 ### 5.5. Stratification codifiée et règles d'inventaire
 
 Codes de strates utilisés en forêt (et adaptables ailleurs)
