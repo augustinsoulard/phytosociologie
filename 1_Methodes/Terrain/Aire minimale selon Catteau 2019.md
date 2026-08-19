@@ -129,4 +129,4 @@ Aires minimales théoriques proposées par **E. Catteau (2019)**, par groupes de
 
 ## 9. Bibliographie
 
-- **Catteau E. (2019)** – « *Proposition de reformulation de l'aire minimale des relevés phytosociologiques* », *Bulletin de la Société Botanique du Nord de la France*, 72 (1-3) : 137-141 – [Catteau - 2019 - Proposition de reformulation de l'aire minimale des relevés phytosociologiques.pdf](Catteau - 2019 - Proposition de reformulation de l'aire minimale des relevés phytosociologiques.pdf)
+- **Catteau E. (2019)** – « *Proposition de reformulation de l'aire minimale des relevés phytosociologiques* », *Bulletin de la Société Botanique du Nord de la France*, 72 (1-3) : 137-141 – [[Catteau-2019-Proposition_reformulation_aire_minimale.pdf]]
