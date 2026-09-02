@@ -436,7 +436,7 @@ L'**indice d'agrégation (ou de sociabilité)** est une estimation globale du **
 | Commentaires              | optionnel                       | texte libre                                                                                                                                                                                                                                                                                                                                                                                                           |
 **Description floristico-écologique (recommandée à obligatoire selon les auteurs)** - format imposé : **formation végétale + structure verticale/horizontale + facteur(s) écologique(s) déterminant(s) + 2 ou 3 espèces représentatives**. Ex. : « Prairie rase et irrégulière des pentes calcaires pâturées à *Cynosurus cristatus* et *Sanguisorba minor* » ; pour les ligneux, utiliser le genre de l'espèce dominante : « Saulaie haute et dense des hauts de vallées alluviales à *Salix atrocinerea*, *Tamus communis* et *Hedera helix* ».
 
-**Photographie (recommandée)** : toujours, pour faciliter le rattachement et sa validation par un tiers. 
+**Photographie 📸(recommandée)** : toujours, pour faciliter le rattachement et sa validation par un tiers. 
 
 **Transect, schémas, végétations de contact (recommandé)** : replacer l'individu dans son contexte.
 
@@ -476,7 +476,7 @@ Pour servir à la définition d'un syntaxon élémentaire, un ensemble de relev�
 Il existe deux grands types de méthodes :
 
 1. la technique du **tri manuel** des tableaux phytosociologiques, réalisable sur un outil tableur (Libre office calc, Excel etc...) ;
-2. les techniques d'**analyses multivariables**, réalisable avec des outils de traitements statistiques (R, PhytoCohortis, Juice etc...).
+2. les techniques d'**analyses multivariées**, réalisable avec des outils de traitements statistiques (R, PhytoCohortis, Juice etc...).
 
 **Tri manuel** - démarche :
 
@@ -691,13 +691,13 @@ Les associations végétales sont décrites par un **tableau phytosociologique �
 - des renseignements complémentaires peuvent y être portés : hauteur des différentes strates, profondeur de la lame d'eau (relevés aquatiques), altitude, pente, exposition ;
 - la dernière colonne, dite **colonne synthétique ou colonne romaine**, indique la **classe de fréquence** de chaque espèce dans le tableau, de **I à V** :
 
-| Classe | Fréquence |
-|---|---|
-| I | 1 à 20 % |
-| II | 21 à 40 % |
-| III | 41 à 60 % |
-| IV | 61 à 80 % |
-| V | 81 à 100 % |
+| Classe | Fréquence  |
+| ------ | ---------- |
+| I      | 1 à 20 %   |
+| II     | 21 à 40 %  |
+| III    | 41 à 60 %  |
+| IV     | 61 à 80 %  |
+| V      | 81 à 100 % |
 
 Si le nombre de relevés composant le tableau est **inférieur à 5**, on porte directement le **nombre de présences** de l'espèce dans le tableau.
 
@@ -712,57 +712,57 @@ Si le nombre de relevés composant le tableau est **inférieur à 5**, on porte 
 
 **Exemple de tableau élaboré - relevés de pelouse à *Sesleria caerulea* (combinaison caractéristique et espèces du *Mesobromion erecti*, des *Brometalia erecti*, des *Festuco valesiacae-Brometea erecti* et des *Trifolio medii-Geranietea sanguinei*) :**
 
-| Taxon | **R1** | **R2** | **R3** | **R4** | **R5** | **Cl.** |
-|---|---|---|---|---|---|---|
-| surface h1 (m2) | 25 | 40 | 30 | 25 | 50 |  |
-| % recouvr. h1 | 95 | 90 | 80 | - | 85 |  |
-| nb taxons | 30 | 28 | 34 | 36 | 36 |  |
-| **Combinaison caractéristique** | | | | | |  |
-| Sesleria caerulea | 4 | 4 | 1 | 3 | 3 | V |
-| Carex ornithopoda | 1 | . | 2 | 1 | 1 | IV |
-| Carduus defloratus | . | 1 | . | + | + | III |
-| Leucanthemum adustum | . | + | . | + | + | III |
-| Epipactis atrorubens (dif.) | . | . | + | 1 | 1 | III |
-| **Espèces du Mesobromion erecti** | | | | | |  |
-| Euphorbia flavicoma subsp. verrucosa | 1 | 1 | . | 2 | 2 | IV |
-| Carex flacca subsp. flacca | 1 | . | 1 | + | + | IV |
-| Lotus corniculatus subsp. corniculatus | + | . | 1 | + | + | IV |
-| Briza media | + | + | . | + | + | IV |
-| Festuca lemanii | + | . | . | 1 | 1 | III |
-| Gymnadenia conopsea subsp. conopsea | . | . | 1 | + | + | III |
-| Leontodon hispidus subsp. hispidus | . | + | . | + | + | III |
-| Helianthemum nummularium subsp. obscurum | . | 1 | . | . | 1 | II |
-| Trifolium montanum subsp. montanum | + | 1 | . | . | . | II |
-| Carex caryophyllea | . | . | . | + | + | II |
-| Centaurea pannonica | . | + | . | + | . | II |
-| Orchis militaris | + | . | + | . | . | II |
-| Plantago media | . | . | . | + | + | II |
-| **Espèces des Brometalia erecti** | | | | | |  |
-| Asperula cynanchica | . | + | 2 | 1 | 1 | IV |
-| Hippocrepis comosa | . | + | 2 | 1 | + | IV |
-| Bromus erectus | . | . | . | 1 | 1 | II |
-| Galium pumilum | . | . | . | + | + | II |
-| **Espèces des Festuco valesiacae - Brometea erecti** | | | | | |  |
-| Pimpinella saxifraga subsp. saxifraga | + | + | 1 | + | + | V |
-| Sanguisorba minor | . | 2 | + | 1 | 1 | IV |
-| Euphorbia cyparissias | . | . | + | 1 | 1 | III |
-| Carlina vulgaris subsp. vulgaris | . | . | + | + | + | III |
-| Festuca longifolia subsp. pseudocostei | . | 1 | 1 | . | . | II |
-| Teucrium chamaedrys subsp. germanicum | . | 1 | + | . | . | II |
-| **Espèces des Trifolio medii - Geranietea sanguinei** | | | | | |  |
-| Brachypodium pinnatum | 1 | . | 2 | + | + | IV |
-| Anthericum ramosum | 1 | . | . | 3 | 3 | III |
-| Viola hirta | + | . | . | 1 | 3 | III |
-| Origanum vulgare | . | . | 1 | + | + | III |
-| Galium mollugo subsp. erectum | . | + | 1 | . | . | II |
-| Hypericum montanum | . | . | . | + | + | II |
-| **Autres taxons** | | | | | |  |
-| Campanula rotundifolia | + | + | 1 | + | + | V |
-| Scabiosa lucida | 1 | . | 1 | 1 | 1 | IV |
-| Hieracium semisilvaticum | + | . | 2 | + | + | IV |
-| Solidago virgaurea subsp. virgaurea | 1 | . | + | + | + | IV |
-| Succisa pratensis | + | . | . | + | + | III |
-| Polygala amarella | . | . | . | + | + | II |
+| Taxon                                                 | **R1** | **R2** | **R3** | **R4** | **R5** | **Cl.** |
+| ----------------------------------------------------- | ------ | ------ | ------ | ------ | ------ | ------- |
+| surface h1 (m2)                                       | 25     | 40     | 30     | 25     | 50     |         |
+| % recouvr. h1                                         | 95     | 90     | 80     | -      | 85     |         |
+| nb taxons                                             | 30     | 28     | 34     | 36     | 36     |         |
+| **Combinaison caractéristique**                       |        |        |        |        |        |         |
+| Sesleria caerulea                                     | 4      | 4      | 1      | 3      | 3      | V       |
+| Carex ornithopoda                                     | 1      | .      | 2      | 1      | 1      | IV      |
+| Carduus defloratus                                    | .      | 1      | .      | +      | +      | III     |
+| Leucanthemum adustum                                  | .      | +      | .      | +      | +      | III     |
+| Epipactis atrorubens (dif.)                           | .      | .      | +      | 1      | 1      | III     |
+| **Espèces du Mesobromion erecti**                     |        |        |        |        |        |         |
+| Euphorbia flavicoma subsp. verrucosa                  | 1      | 1      | .      | 2      | 2      | IV      |
+| Carex flacca subsp. flacca                            | 1      | .      | 1      | +      | +      | IV      |
+| Lotus corniculatus subsp. corniculatus                | +      | .      | 1      | +      | +      | IV      |
+| Briza media                                           | +      | +      | .      | +      | +      | IV      |
+| Festuca lemanii                                       | +      | .      | .      | 1      | 1      | III     |
+| Gymnadenia conopsea subsp. conopsea                   | .      | .      | 1      | +      | +      | III     |
+| Leontodon hispidus subsp. hispidus                    | .      | +      | .      | +      | +      | III     |
+| Helianthemum nummularium subsp. obscurum              | .      | 1      | .      | .      | 1      | II      |
+| Trifolium montanum subsp. montanum                    | +      | 1      | .      | .      | .      | II      |
+| Carex caryophyllea                                    | .      | .      | .      | +      | +      | II      |
+| Centaurea pannonica                                   | .      | +      | .      | +      | .      | II      |
+| Orchis militaris                                      | +      | .      | +      | .      | .      | II      |
+| Plantago media                                        | .      | .      | .      | +      | +      | II      |
+| **Espèces des Brometalia erecti**                     |        |        |        |        |        |         |
+| Asperula cynanchica                                   | .      | +      | 2      | 1      | 1      | IV      |
+| Hippocrepis comosa                                    | .      | +      | 2      | 1      | +      | IV      |
+| Bromus erectus                                        | .      | .      | .      | 1      | 1      | II      |
+| Galium pumilum                                        | .      | .      | .      | +      | +      | II      |
+| **Espèces des Festuco valesiacae - Brometea erecti**  |        |        |        |        |        |         |
+| Pimpinella saxifraga subsp. saxifraga                 | +      | +      | 1      | +      | +      | V       |
+| Sanguisorba minor                                     | .      | 2      | +      | 1      | 1      | IV      |
+| Euphorbia cyparissias                                 | .      | .      | +      | 1      | 1      | III     |
+| Carlina vulgaris subsp. vulgaris                      | .      | .      | +      | +      | +      | III     |
+| Festuca longifolia subsp. pseudocostei                | .      | 1      | 1      | .      | .      | II      |
+| Teucrium chamaedrys subsp. germanicum                 | .      | 1      | +      | .      | .      | II      |
+| **Espèces des Trifolio medii - Geranietea sanguinei** |        |        |        |        |        |         |
+| Brachypodium pinnatum                                 | 1      | .      | 2      | +      | +      | IV      |
+| Anthericum ramosum                                    | 1      | .      | .      | 3      | 3      | III     |
+| Viola hirta                                           | +      | .      | .      | 1      | 3      | III     |
+| Origanum vulgare                                      | .      | .      | 1      | +      | +      | III     |
+| Galium mollugo subsp. erectum                         | .      | +      | 1      | .      | .      | II      |
+| Hypericum montanum                                    | .      | .      | .      | +      | +      | II      |
+| **Autres taxons**                                     |        |        |        |        |        |         |
+| Campanula rotundifolia                                | +      | +      | 1      | +      | +      | V       |
+| Scabiosa lucida                                       | 1      | .      | 1      | 1      | 1      | IV      |
+| Hieracium semisilvaticum                              | +      | .      | 2      | +      | +      | IV      |
+| Solidago virgaurea subsp. virgaurea                   | 1      | .      | +      | +      | +      | IV      |
+| Succisa pratensis                                     | +      | .      | .      | +      | +      | III     |
+| Polygala amarella                                     | .      | .      | .      | +      | +      | II      |
 
 Ce tableau ne **se suffit pas à lui-même** et il doit être accompagné d'un commentaire portant sur :
 
@@ -926,7 +926,7 @@ les objets (lignes) sont communs aux trois matrices (même dimension, même ordr
 - **algorithmes** : groupement **non hiérarchique** (partition ; nombre de groupes fixé au départ) ; groupement **hiérarchique** (les groupes de rang inférieur se regroupent dans des groupes de rang supérieur) construit par **agglomération** (classification hiérarchique ascendante : de *n* groupes à 1) ou par **division** (descendante : de 1 groupe à *n*) ; le nombre de groupes dépend du choix d'un **niveau de coupure** ;
 - **principales méthodes hiérarchiques** : liens **simples** (la distance entre deux groupes est la plus petite dissimilarité ; enchaînement des objets selon l'ordre des distances), liens **complets** (la plus grande dissimilarité), **association moyenne** (UPGMA - *Unweighted Pair-Group Method using Arithmetic averages*), **modèle général de Lance et Williams**, **méthode de Ward** - *la méthode qui semble donner les meilleurs résultats en typologie phytosociologique* ;
 - **méthode de Ward** : minimise la variance à l'intérieur des groupes ; à chaque étape, l'algorithme recherche la paire d'objets ou de groupes dont la fusion augmente le moins possible la somme des carrés des distances entre objets et centroïdes des groupes ; méthode élégante et robuste, mais supposant théoriquement une mesure d'association **métrique et euclidienne** - d'où l'usage d'une matrice d'association avec un indice de **distance de corde** (bornée, métrique, **asymétrique** - ne tenant pas compte des doubles zéros - et euclidienne ; racine carrée de la somme des carrés des différences après normalisation des vecteurs objets) ; elle tend à produire des dendrogrammes avec des **groupes compacts de taille égale** ;
-- **interprétation d'un dendrogramme** : l'ordre des objets ne doit pas être utilisé pour interpréter les ressemblances (un dendrogramme peut être assimilé à un mobile dont les branches peuvent pivoter autour des **nœuds**) ; pour le choix du niveau de coupure : pas de méthode objective - critère empirique : couper les **branches les plus longues**, rien n'oblige à couper à un même niveau ; le critère prépondérant est la **possibilité d'interprétation biologique ou écologique** des groupes obtenus ; le **graphe des niveaux de fusion** (représentation de *k*, nombre de groupes, en fonction de *h*, niveau de fusion) aide à décider du niveau de coupure (segment le plus long) ;
+- **interprétation d'un dendrogramme** (CAH) : l'ordre des objets ne doit pas être utilisé pour interpréter les ressemblances (un dendrogramme peut être assimilé à un mobile dont les branches peuvent pivoter autour des **nœuds**) ; pour le choix du niveau de coupure : pas de méthode objective - critère empirique : couper les **branches les plus longues**, rien n'oblige à couper à un même niveau ; le critère prépondérant est la **possibilité d'interprétation biologique ou écologique** des groupes obtenus ; le **graphe des niveaux de fusion** (représentation de *k*, nombre de groupes, en fonction de *h*, niveau de fusion) aide à décider du niveau de coupure (segment le plus long) ;
 - **distance euclidienne** : racine carrée de la somme des carrés des différences entre les valeurs des descripteurs ; pas de borne supérieure, dépend de l'échelle des variables (à calculer de préférence après standardisation des descripteurs) ; métrique et symétrique ; utilisée dans l'analyse en composantes principales.
 
 ### 8.2. Analyse des gradients : techniques d'ordination en espace réduit

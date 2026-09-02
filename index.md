@@ -8,7 +8,7 @@ sources:
 ---
 # **Bienvenue sur PhytosocioNexus**
 
-Ce site est un dépôt communautaire centralisant les ressources, outils et sites web liés à la phytosociologie, avec un focus particulier sur la France. Il inclut notamment _PhytosocioNexus_, un outil Obsidian permettant une **visualisation interactive par liens et nœuds** des relations entre syntaxons, espèces associées et données phytosociologiques.
+Ce site est un dépôt communautaire centralisant les ressources, outils et sites web liés à la phytosociologie, avec un focus particulier sur la France. Via cet interface web ou via l'outil Obsidian PhytosocioNexus permet une **visualisation interactive par liens et nœuds** des relations entre syntaxons, espèces associées et données phytosociologiques.
 
 Vous pouvez consulter ce site web ou télécharger cet outil sur [github](https://github.com/augustinsoulard/PhytosocioNexus) et l'ouvrir via [Obsidian](https://obsidian.md/).  L'ouverture via Obsidian permet de débloquer certaines fonctionnalités.
 
