@@ -15,7 +15,7 @@ sources:
 **Espèces caractéristiques** : [[Brachypodium distachyon]], [[Bupleurum baldense]], [[Linum leonii]]
 
 - **Correspondances typologiques** :
-	- EUNIS : [[E1.5131]]
+	- EUNIS : [[E1.3131]]
 	- CB : [[34.5131]]
 	- HIC EUR : [[6220-2]] à [[6220-4]]
 

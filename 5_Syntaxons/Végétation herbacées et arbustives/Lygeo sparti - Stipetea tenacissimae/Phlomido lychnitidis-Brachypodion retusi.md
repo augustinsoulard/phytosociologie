@@ -15,7 +15,7 @@ sources:
 **Espèces caractéristiques** : [[Brachypodium retusum]], [[Ruta angustifolia]], [[Iris lutescens]], [[Phlomis lychnitis]], [[Asphodelus fistulosus]], [[Euphorbia spinosa]], [[Thymus vulgaris]]
 
 - **Correspondances typologiques** :
-	- EUNIS : [[E3.31]]
+	- EUNIS : [[E1.311]]
 	- CB : [[34.51]]
 	- HIC EUR : [[6220-1]] & [[6220-5]]
 
